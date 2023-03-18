@@ -7,7 +7,8 @@
 |Twitter|[@nashitaka2](https://mobile.twitter.com/nashitaka2)|
 |Qiita|[@iwajin](https://qiita.com/iwajin)|
 |Linkedin|[myLinkedin](http://linkedin.com/in/徳太-岩下-991246241)|
-|趣味|ウエイトトレーニング|  
+|趣味|ウエイトトレーニング|
+
 &ensp;
 # キャリアサマリー  
 簿記系の専門学校卒業し、新卒で某ファミリーレストランに正社員として入社し岡山県に配属される。副店長、店長と経験し年間売上約１億円の店舗でヒトモノカネの管理を学ぶ。特にモノの管理において過去日の売上、イベントの把握によって食材の廃棄の削減に取り組む。  
@@ -26,6 +27,7 @@ SESとして業務システムの運用保守案件に携わる。Windows8.1サ�
 |2022/11|AWS certified Solutions Architect Associate|
 |2022/12|AWS certified Developer Associate <br> AWS certified SysOps Administrator Associate|
 |2023/02|AWS certified Solutions Architect Professional|
+
 &ensp;
 # 扱ったツール・技術一覧  
 |ツール・技術|内容|
