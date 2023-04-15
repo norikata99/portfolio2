@@ -5,7 +5,7 @@
 |年齢|30歳|
 |出身地|熊本県|
 |Twitter|[@nashitaka2](https://mobile.twitter.com/nashitaka2)|
-|Qiita|[@iwajin](https://qiita.com/iwajin)|
+|Qiita|[@nori_iron](https://qiita.com/nori_iron)|
 |Linkedin|[myLinkedin](http://linkedin.com/in/徳太-岩下-991246241)|
 |趣味|ウエイトトレーニング|
 
